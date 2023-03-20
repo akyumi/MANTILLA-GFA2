@@ -1,0 +1,54 @@
+body{
+    margin: 20px;
+}
+
+div{
+    text-align: center;
+}
+
+.instructions{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+}
+
+.instructions h1{
+    font-weight: bold;
+    color: orchid;
+}
+
+.instructions p{
+    margin: 0;
+    font-style: italic;
+    font-size: 13px;
+    color: gray;
+}
+
+.inputs{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.inputs input{
+    width: 75px;
+}
+
+.inputs button{
+    margin-top: 20px;
+    background-color: rosybrown;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 6px;
+}
+
+.output{
+    font-size: 20px;
+    color: brown;
+    margin: 100px;
+}
